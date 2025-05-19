@@ -4,7 +4,7 @@ export const shows = [{
         data: "2025-06-15",
         horario: "21:00",
         tipo_ingresso: "vip",
-        banner: "../images/image0.jpg"
+        banner: "./images/image0.jpg"
     },
     {
         artista: "The Beatles",
@@ -12,7 +12,7 @@ export const shows = [{
         data: "2025-07-20",
         horario: "21:00",
         tipo_ingresso: "pista",
-        banner: "../images/image1.jpg"
+        banner: "./images/image1.jpg"
     },
     {
         artista: "Queen",
@@ -20,7 +20,7 @@ export const shows = [{
         data: "2025-08-05",
         horario: "21:00",
         tipo_ingresso: "premium",
-        banner: "../images/image2.jpg"
+        banner: "./images/image2.jpg"
     },
     {
         artista: "Pink Floyd",
@@ -28,7 +28,7 @@ export const shows = [{
         data: "2025-09-10",
         horario: "21:00",
         tipo_ingresso: "meia entrada",
-        banner: "../images/image3.jpg"
+        banner: "./images/image3.jpg"
     },
     {
         artista: "AC/DC",
@@ -36,7 +36,7 @@ export const shows = [{
         data: "2025-10-25",
         horario: "21:00",
         tipo_ingresso: "inteira",
-        banner: "../images/image4.jpg"
+        banner: "./images/image4.jpg"
     },
     {
         artista: "The Rolling Stones",
@@ -44,7 +44,7 @@ export const shows = [{
         data: "2025-06-30",
         horario: "21:00",
         tipo_ingresso: "vip",
-        banner: "../images/image5.jpg"
+        banner: "./images/image5.jpg"
     },
     {
         artista: "Metallica",
@@ -52,7 +52,7 @@ export const shows = [{
         data: "2025-07-15",
         horario: "21:00",
         tipo_ingresso: "pista",
-        banner: "../images/image6.jpg"
+        banner: "./images/image6.jpg"
     },
     {
         artista: "Iron Maiden",
@@ -60,7 +60,7 @@ export const shows = [{
         data: "2025-08-20",
         horario: "21:00",
         tipo_ingresso: "premium",
-        banner: "../images/image7.jpg"
+        banner: "./images/image7.jpg"
     },
     {
         artista: "Fleetwood Mac",
@@ -68,7 +68,7 @@ export const shows = [{
         data: "2025-09-05",
         horario: "21:00",
         tipo_ingresso: "meia entrada",
-        banner: "../images/image8.jpg"
+        banner: "./images/image8.jpg"
     },
     {
         artista: "Black Sabbath",
@@ -76,7 +76,7 @@ export const shows = [{
         data: "2025-10-10",
         horario: "21:00",
         tipo_ingresso: "inteira",
-        banner: "../images/image9.jpg"
+        banner: "./images/image9.jpg"
     },
     {
         artista: "The Who",
@@ -84,7 +84,7 @@ export const shows = [{
         data: "2025-06-20",
         horario: "21:00",
         tipo_ingresso: "vip",
-        banner: "../images/image0.jpg"
+        banner: "./images/image0.jpg"
     },
     {
         artista: "The Doors",
@@ -92,7 +92,7 @@ export const shows = [{
         data: "2025-07-25",
         horario: "21:00",
         tipo_ingresso: "pista",
-        banner: "../images/image1.jpg"
+        banner: "./images/image1.jpg"
     },
     {
         artista: "The Clash",
@@ -100,7 +100,7 @@ export const shows = [{
         data: "2025-08-30",
         horario: "21:00",
         tipo_ingresso: "premium",
-        banner: "../images/image2.jpg"
+        banner: "./images/image2.jpg"
     },
     {
         artista: "U2",
@@ -108,7 +108,7 @@ export const shows = [{
         data: "2025-09-15",
         horario: "21:00",
         tipo_ingresso: "meia entrada",
-        banner: "../images/image3.jpg"
+        banner: "./images/image3.jpg"
     },
     {
         artista: "Rush",
@@ -116,7 +116,7 @@ export const shows = [{
         data: "2025-10-20",
         horario: "21:00",
         tipo_ingresso: "inteira",
-        banner: "../images/image4.jpg"
+        banner: "./images/image4.jpg"
     },
     {
         artista: "Rage Against The Machine",
@@ -124,7 +124,7 @@ export const shows = [{
         data: "2025-06-10",
         horario: "21:00",
         tipo_ingresso: "vip",
-        banner: "../images/image5.jpg"
+        banner: "./images/image5.jpg"
     },
     {
         artista: "Guns N' Roses",
@@ -132,7 +132,7 @@ export const shows = [{
         data: "2025-07-05",
         horario: "21:00",
         tipo_ingresso: "pista",
-        banner: "../images/image6.jpg"
+        banner: "./images/image6.jpg"
     },
     {
         artista: "Heart",
@@ -140,7 +140,7 @@ export const shows = [{
         data: "2025-08-10",
         horario: "21:00",
         tipo_ingresso: "premium",
-        banner: "../images/image7.jpg"
+        banner: "./images/image7.jpg"
     },
     {
         artista: "Cream",
@@ -148,7 +148,7 @@ export const shows = [{
         data: "2025-09-25",
         horario: "21:00",
         tipo_ingresso: "meia entrada",
-        banner: "../images/image8.jpg"
+        banner: "./images/image8.jpg"
     },
     {
         artista: "Nirvana",
@@ -156,7 +156,7 @@ export const shows = [{
         data: "2025-10-05",
         horario: "21:00",
         tipo_ingresso: "inteira",
-        banner: "../images/image9.jpg"
+        banner: "./images/image9.jpg"
     },
     {
         artista: "Journey",
@@ -164,7 +164,7 @@ export const shows = [{
         data: "2025-06-25",
         horario: "21:00",
         tipo_ingresso: "vip",
-        banner: "../images/image0.jpg"
+        banner: "./images/image0.jpg"
     },
     {
         artista: "Radiohead",
@@ -172,7 +172,7 @@ export const shows = [{
         data: "2025-07-10",
         horario: "21:00",
         tipo_ingresso: "pista",
-        banner: "../images/image1.jpg"
+        banner: "./images/image1.jpg"
     },
     {
         artista: "KISS",
@@ -180,7 +180,7 @@ export const shows = [{
         data: "2025-08-15",
         horario: "21:00",
         tipo_ingresso: "premium",
-        banner: "../images/image2.jpg"
+        banner: "./images/image2.jpg"
     },
     {
         artista: "Oasis",
@@ -188,7 +188,7 @@ export const shows = [{
         data: "2025-09-20",
         horario: "21:00",
         tipo_ingresso: "meia entrada",
-        banner: "../images/image3.jpg"
+        banner: "./images/image3.jpg"
     },
     {
         artista: "Tool",
@@ -196,7 +196,7 @@ export const shows = [{
         data: "2025-10-15",
         horario: "21:00",
         tipo_ingresso: "inteira",
-        banner: "../images/image4.jpg"
+        banner: "./images/image4.jpg"
     },
     {
         artista: "ZZ Top",
@@ -204,7 +204,7 @@ export const shows = [{
         data: "2025-06-05",
         horario: "21:00",
         tipo_ingresso: "vip",
-        banner: "../images/image5.jpg"
+        banner: "./images/image5.jpg"
     },
     {
         artista: "Aerosmith",
@@ -212,7 +212,7 @@ export const shows = [{
         data: "2025-07-30",
         horario: "21:00",
         tipo_ingresso: "pista",
-        banner: "../images/image6.jpg"
+        banner: "./images/image6.jpg"
     },
     {
         artista: "Van Halen",
@@ -220,7 +220,7 @@ export const shows = [{
         data: "2025-08-25",
         horario: "21:00",
         tipo_ingresso: "premium",
-        banner: "../images/image7.jpg"
+        banner: "./images/image7.jpg"
     },
     {
         artista: "Eagles",
@@ -228,7 +228,7 @@ export const shows = [{
         data: "2025-09-10",
         horario: "21:00",
         tipo_ingresso: "meia entrada",
-        banner: "../images/image8.jpg"
+        banner: "./images/image8.jpg"
     },
     {
         artista: "The Jimi Hendrix Experience",
@@ -236,6 +236,6 @@ export const shows = [{
         data: "2025-10-30",
         horario: "21:00",
         tipo_ingresso: "inteira",
-        banner: "../images/image9.jpg"
+        banner: "./images/image9.jpg"
     }
 ];
