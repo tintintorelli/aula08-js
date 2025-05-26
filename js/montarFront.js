@@ -12,7 +12,7 @@ shows.forEach(show => {
         <div class="col-md-6 col-lg-4 my-3">
             <div class="card">
                 <a href="" class="text-decoration-none text-dark">
-                <img src="${show.banner}" class="card-img-top" alt="${show.artista}">
+                <img src="${show.banner}" class="card-img-top" alt="${show.artista}" loading="lazy">
                 <div class="card-body">
                         <h4 class="my-3">${show.artista}</h4>
                         <div class="d-flex justify-content-between">
