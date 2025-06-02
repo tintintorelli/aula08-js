@@ -239,3 +239,27 @@ export const shows = [{
         banner: "./images/image9.jpg"
     }
 ];
+
+/****** Objeto para criar galeria ******/
+export const galleryImages = [
+    { imagem: "images/image0.jpg", descricao: "Palco iluminado com luz vermelha" },
+    { imagem: "images/image10.jpg", descricao: "Guitarrista solando em total energia" },
+    { imagem: "images/image17.jpg", descricao: "Bateria vibrando no fundo escuro" },
+    { imagem: "images/image3.jpg", descricao: "Vocalista gritando para multidão enlouquecida" },
+    { imagem: "images/image4.jpg", descricao: "Público pulando com mãos levantadas" },
+    { imagem: "images/image16.jpg", descricao: "Fogos estourando atrás do palco" },
+    { imagem: "images/image5.jpg", descricao: "Banda reunida em explosão sonora" },
+    { imagem: "images/image2.jpg", descricao: "Guitarra distorcida ecoa pela arena" },
+    { imagem: "images/image14.jpg", descricao: "Som pesado e luzes piscando rápido" },
+    { imagem: "images/image7.jpg", descricao: "Show lotado com energia contagiante" },
+    { imagem: "images/image18.jpg", descricao: "Multidão cantando refrão em uníssono" },
+    { imagem: "images/image8.jpg", descricao: "Luzes estroboscópicas cortam a fumaça" },
+    { imagem: "images/image9.jpg", descricao: "Fãs emocionados próximos ao palco" },
+    { imagem: "images/image11.jpg", descricao: "Baixo marcando ritmo eletrizante contínuo" },
+    { imagem: "images/image12.jpg", descricao: "Camisetas pretas e braços erguidos" },
+    { imagem: "images/image6.jpg", descricao: "Show começa com grito estrondoso épico" },
+    { imagem: "images/image13.jpg", descricao: "Solos de guitarra estremecem tudo" },
+    { imagem: "images/image1.jpg", descricao: "Mosh pit se forma rapidamente agressivo" },
+    { imagem: "images/image15.jpg", descricao: "Fumaça cobre palco entre músicas" },
+    { imagem: "images/image19.jpg", descricao: "Pancadas fortes agitam o público" }
+  ];

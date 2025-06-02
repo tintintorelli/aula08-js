@@ -70,3 +70,21 @@
     background-color: #003;
     color: #fff;
 }
+
+/* Galeria de imagens */
+
+.gallery {
+    columns: 300px;
+}
+
+.gallery img {
+    width: 100%;
+    display: block;
+    padding-top: 1rem;
+    border-radius: 7px;
+    transition: .5s;
+}
+
+.gallery img:hover {
+    scale: 1.04;
+}
